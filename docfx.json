@@ -103,7 +103,8 @@
         "exclude": [
           "**/obj/**",
           "**/includes/**",
-          "**/toc.yml"
+          "**/toc.yml",
+          "**/overview/**"
         ]
       },
       {

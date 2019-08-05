@@ -6,7 +6,11 @@
       "build_source_folder": ".",
       "build_output_subfolder": "azure/sdk/java",
       "locale": "en-us",
-      "moniker_ranges": [ "azure-java-stable", "azure-java-preview" ,"azure-java-legacy"],
+      "moniker_ranges": [
+        "azure-java-stable",
+        "azure-java-preview",
+        "azure-java-legacy"
+      ],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -38,7 +42,7 @@
   "git_repository_branch_open_to_public_contributors": "master",
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
-  "enable_incremental_build": false,
+  "enable_incremental_build": true,
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {

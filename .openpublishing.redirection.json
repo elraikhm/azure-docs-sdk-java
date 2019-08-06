@@ -25071,52 +25071,52 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "docs-ref-autogen/overview/autosuggest.yml",
+      "source_path": "docs-ref-autogen/overview/autosuggest.md",
       "redirect_url": "/java/api/overview/azure/cognitiveservices/client/bingautosuggest",
       "redirect_document_id": true
     },
     {
-      "source_path": "docs-ref-autogen/overview/customimagesearch.yml",
+      "source_path": "docs-ref-autogen/overview/customimagesearch.md",
       "redirect_url": "/java/api/overview/azure/cognitiveservices/client/bingcustomimagesearch",
       "redirect_document_id": true
     },
     {
-      "source_path": "docs-ref-autogen/overview/customsearch.yml",
+      "source_path": "docs-ref-autogen/overview/customsearch.md",
       "redirect_url": "/java/api/overview/azure/cognitiveservices/client/bingcustomsearch",
       "redirect_document_id": true
     },
     {
-      "source_path": "docs-ref-autogen/overview/entitysearch.yml",
+      "source_path": "docs-ref-autogen/overview/entitysearch.md",
       "redirect_url": "/java/api/overview/azure/cognitiveservices/client/bingentitysearchapi",
       "redirect_document_id": true
     },
     {
-      "source_path": "docs-ref-autogen/overview/imagesearch.yml",
+      "source_path": "docs-ref-autogen/overview/imagesearch.md",
       "redirect_url": "/java/api/overview/azure/cognitiveservices/client/bingimagesearch",
       "redirect_document_id": true
     },
     {
-      "source_path": "docs-ref-autogen/overview/newssearch.yml",
+      "source_path": "docs-ref-autogen/overview/newssearch.md",
       "redirect_url": "/java/api/overview/azure/cognitiveservices/client/bingnewssearch",
       "redirect_document_id": true
     },
     {
-      "source_path": "docs-ref-autogen/overview/spellcheck.yml",
+      "source_path": "docs-ref-autogen/overview/spellcheck.md",
       "redirect_url": "/java/api/overview/azure/cognitiveservices/client/bingspellcheck",
       "redirect_document_id": true
     },
     {
-      "source_path": "docs-ref-autogen/overview/videosearch.yml",
+      "source_path": "docs-ref-autogen/overview/videosearch.md",
       "redirect_url": "/java/api/overview/azure/cognitiveservices/client/bingvideosearch",
       "redirect_document_id": true
     },
     {
-      "source_path": "docs-ref-autogen/overview/visualsearch.yml",
+      "source_path": "docs-ref-autogen/overview/visualsearch.md",
       "redirect_url": "/java/api/overview/azure/cognitiveservices/client/bingvisualsearch",
       "redirect_document_id": true
     },
     {
-      "source_path": "docs-ref-autogen/overview/websearch.yml",
+      "source_path": "docs-ref-autogen/overview/websearch.md",
       "redirect_url": "/java/api/overview/azure/cognitiveservices/client/bingwebsearchapi",
       "redirect_document_id": true
     }

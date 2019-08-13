@@ -105,7 +105,7 @@
           "**/obj/**",
           "**/includes/**",
           "**/toc.yml",
-          "**/overview/**"
+          "overview/**"
         ]
       },
       {
